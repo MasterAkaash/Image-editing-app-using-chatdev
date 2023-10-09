@@ -1,5 +1,6 @@
 # Image-editing-app-using-chatdev
 
+
 # Image Editor User Manual
 
 ## Introduction
@@ -18,6 +19,9 @@ Welcome to the Image Editor software! This user manual will guide you through th
 3. System Requirements
 4. Troubleshooting
 5. Frequently Asked Questions (FAQs)
+
+#LIVE VIEW OF THE APPLICATION 
+>> Image Application Sample.mp4
 
 ## 1. Installation
 
